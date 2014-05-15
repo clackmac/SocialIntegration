@@ -24,7 +24,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-//    self.navigationItem.leftBarButtonItem = self.editButtonItem;
     _objects = [NSMutableArray new];
     [_objects addObject:@"Facebook"];
     [_objects addObject:@"Twitter"];
